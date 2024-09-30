@@ -1,0 +1,56 @@
+ls - list out
+cd - command
+cd <folder name> - enter a folder
+cd .. -go back to prev folder
+mkdir - make a folder
+rmdir - remove aq folder
+mv - move a folder
+cat - view a file
+vim - write or edit a file
+w - write
+q - quit
+clear - clear terminal
+npm - node package manager
+npx - node package executor
+
+npm install -g create-react-app
+npm uninstall -g create-react-app
+
+npx create-react-app test
+
+npm start- start react app
+
+localhost:3000-react
+
+127.0.0.1:3000-react
+
+127.0.0.1:8000-python
+
+3807-sql
+
+80,443-apachen
+
+packages -pkg
+
+libraries,dependencies
+
+JSON - javascript object notation
+
+data types:
+list - []
+tuples - ()
+set -{}
+dict - dictionary -{key value}
+!= - not equal to
+===- equal to
+= - assign to
+
+jsx - javascript
+
+() => {}
+
+a component is a js func. that returns a jsx.
+
+componenets always begins with a capital letter, unlike js.
+
+it always returns UI stuff like h1,div,p tag.  
